@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  {% seo %}
+</head>
+<body>
+  <div class="wrapper">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="profile">
+        <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}" class="profile-image">
+        <h1 class="site-title">{{ site.author.name }}</h1>
+        <p class="site-subtitle">{{ site.author.title }}</p>
+        <p class="site-affiliation">{{ site.author.affiliation }}</p>
+      </div>
+      
+      <nav class="nav">
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>About</a>
+        <a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research' %}class="active"{% endif %}>Research</a>
+        <a href="{{ '/group/' | relative_url }}" {% if page.url contains '/group' %}class="active"{% endif %}>Group</a>
+        <a href="{{ '/teaching/' | relative_url }}" {% if page.url contains '/teaching' %}class="active"{% endif %}>Teaching</a>
+        <a href="{{ '/photography/' | relative_url }}" {% if page.url contains '/photography' %}class="active"{% endif %}>Photography</a>
+        <a href="{{ '/cv/' | relative_url }}" {% if page.url contains '/cv' %}class="active"{% endif %}>CV</a>
+      </nav>
+      
+      <div class="social-links">
+        {% if site.google_scholar %}
+        <a href="{{ site.google_scholar }}" target="_blank" title="Google Scholar"><i class="fa-brands fa-google-scholar"></i></a>
+        {% endif %}
+        {% if site.linkedin %}
+        <a href="{{ site.linkedin }}" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+        {% endif %}
+        {% if site.github %}
+        <a href="https://github.com/{{ site.github }}" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
+        {% endif %}
+        {% if site.orcid %}
+        <a href="{{ site.orcid }}" target="_blank" title="ORCID"><i class="fa-brands fa-orcid"></i></a>
+        {% endif %}
+      </div>
+    </aside>
+    
+    <!-- Main content -->
+    <main class="content">
+      <!-- Dark/Light mode toggle -->
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+        <i class="fa-solid fa-moon"></i>
+      </button>
+      
+      {{ content }}
+      
+      <footer class="footer">
+        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. Built with <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+      </footer>
+    </main>
+  </div>
+  
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
