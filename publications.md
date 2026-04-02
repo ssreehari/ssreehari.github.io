@@ -46,7 +46,9 @@ permalink: /publications/
 
 ### Book in Preparation
 
-**Sreehari, S.** (Expected 2027). *Bayesian Estimation for Computational Imaging*. SPIE Press.
+**Sreehari, S.** (Expected 2027). *Mathematical Fluency*.
+
+**Sreehari, S.** (Expected 2027). *A Computational Imaging Anthology*.
 
 ### Patents
 
