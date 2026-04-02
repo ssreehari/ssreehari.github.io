@@ -13,10 +13,7 @@ title: Home
     Data Science Institute & Biomedical Engineering<br>
     Medical College of Wisconsin
   </p>
-  
-  <p class="subtitle">
-    Founder & CEO, Pelagia Labs
-  </p>
+
 </div>
 
 ## About
@@ -41,12 +38,11 @@ I am particularly known for developing the **Plug-and-Play Priors** framework, w
 
 ## Contact
 
-**Email**: suhas.sreehari@ieee.org  
-**Phone**: +1 (865) 985-1885  
-**Office**: Medical College of Wisconsin, Milwaukee, WI
+**Email**: ssreehari [at] mcw [dot] edu  
+**Office**: 8701 W Watertown Plank Road, Medical College of Wisconsin, Milwaukee, WI
 
 <div class="social-links">
-  <a href="https://scholar.google.com">Google Scholar</a> | 
+  <a href="https://scholar.google.com/citations?user=prgQwNwAAAAJ&hl=en">Google Scholar</a> | 
   <a href="https://linkedin.com">LinkedIn</a> | 
   <a href="https://github.com">GitHub</a>
 </div>
