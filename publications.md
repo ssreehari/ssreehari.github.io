@@ -4,9 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google Scholar Profile](https://scholar.google.com) | [ORCID](https://orcid.org)
-
-## Selected Publications
+## Select Publications
 
 ### Journal Articles
 
@@ -65,12 +63,3 @@ permalink: /publications/
 
 2. **Sreehari, S.** (2012). "Fast Modular Reduction for Large-Integer Multiplication." Master of Applied Science dissertation, University of Windsor, Canada. [Scholarship at UWindsor](http://scholar.uwindsor.ca/etd/485/)
 
-## Citation Metrics
-
-- 20+ peer-reviewed publications
-- 1000+ citations (Google Scholar)
-- h-index: [To be updated]
-
-## Full Publication List
-
-For a complete and up-to-date list of publications, please visit my [Google Scholar profile](https://scholar.google.com).
