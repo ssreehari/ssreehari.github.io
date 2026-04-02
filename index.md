@@ -4,27 +4,34 @@ title: Home
 ---
 
 <div class="home-intro">
+  <div class="intro-text">
+    <h1>Suhas Sreehari, PhD</h1>
+    
+    <p class="subtitle">
+      Assistant Professor<br>
+      Data Science Institute & Biomedical Engineering<br>
+      Medical College of Wisconsin
+    </p>
+    
+    <p class="subtitle">
+      Founder & CEO, Pelagia Labs
+    </p>
+  </div>
+  
   <img src="/assets/images/profile.jpg" alt="Suhas Sreehari" class="profile-image">
-  
-  <h1>Suhas Sreehari, PhD</h1>
-  
-  <p class="subtitle">
-    Assistant Professor<br>
-    Data Science Institute & Biomedical Engineering<br>
-    Medical College of Wisconsin
-  </p>
-
 </div>
+
+<div style="clear: both;"></div>
 
 ## About
 
-I am an Assistant Professor at the Medical College of Wisconsin's Data Science Institute and Department of Biomedical Engineering, where I lead research in computational imaging, Bayesian machine learning, and explainable AI. I am also the Founder and CEO of Pelagia Labs, developing next-generation AI solutions.
+I am an Assistant Professor at the Medical College of Wisconsin's Data Science Institute and Department of Biomedical Engineering, where I lead research in computational imaging, Bayesian machine learning, and explainable AI. I am also the Founder and CEO of Pelagia Labs, developing personal life management tools and work automation.
 
 My research spans:
 - **Computational Imaging**: Advanced reconstruction algorithms for MRI and electron microscopy
 - **Bayesian Machine Learning**: Plug-and-Play Priors and Consensus Equilibrium frameworks
-- **Federated Learning**: Privacy-preserving collaborative learning for medical imaging
 - **Explainable AI**: Differential geometric approaches to understanding neural network representations
+- **Inverse Problems**: Model-based optimization for scientific imaging
 
 I am particularly known for developing the **Plug-and-Play Priors** framework, which has been adopted by over 100 research laboratories worldwide and is used in commercial products including Samsung Galaxy smartphone fingerprint sensors.
 
