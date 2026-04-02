@@ -14,8 +14,8 @@
 
 /* Profile image on home page - smaller, on right */
 .profile-image {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
