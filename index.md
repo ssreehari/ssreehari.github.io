@@ -38,7 +38,7 @@ I am particularly known for developing the **Plug-and-Play Priors** framework, w
 ## Recent Highlights
 
 - **2026**: Selected for National Academy of Engineering's China-America Frontiers of Engineering
-- **2024**: Distinguished Alumnus Award, B.M.S. College of Engineering
+- **2024**: Distinguished Alumnus Award, B.M.S. College of Engineering, India
 - **2022**: Elevated to IEEE Senior Member
 - **2020**: SIAM Imaging Sciences Best Paper Prize
 - **2018**: IEEE Signal Processing Society Young Author Best Paper Award
