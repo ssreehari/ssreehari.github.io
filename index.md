@@ -13,9 +13,6 @@ title: Home
       Medical College of Wisconsin
     </p>
     
-    <p class="subtitle">
-      Founder & CEO, Pelagia Labs
-    </p>
   </div>
   
   <img src="/assets/images/profile.jpg" alt="Suhas Sreehari" class="profile-image">
@@ -25,12 +22,12 @@ title: Home
 
 ## About
 
-I am an Assistant Professor at the Medical College of Wisconsin's Data Science Institute and Department of Biomedical Engineering, where I lead research in computational imaging, Bayesian machine learning, and explainable AI. I am also the Founder and CEO of Pelagia Labs, developing personal life management tools and work automation.
+I am an Assistant Professor at the Medical College of Wisconsin's Data Science Institute (home department) and Department of Biomedical Engineering (by courtesy), where I lead research in computational imaging, Bayesian machine learning, and applied mathematical techniques for large Ai/foundation models. I am also the Founder and CEO of Pelagia Labs, developing personal life management tools and work automation.
 
 My research spans:
 - **Computational Imaging**: Advanced reconstruction algorithms for MRI and electron microscopy
 - **Bayesian Machine Learning**: Plug-and-Play Priors and Consensus Equilibrium frameworks
-- **Explainable AI**: Differential geometric approaches to understanding neural network representations
+- **Explainable and Prescriptive AI**: Differential geometric approaches to understanding neural network representations
 - **Inverse Problems**: Model-based optimization for scientific imaging
 
 I am particularly known for developing the **Plug-and-Play Priors** framework, which has been adopted by over 100 research laboratories worldwide and is used in commercial products including Samsung Galaxy smartphone fingerprint sensors.
@@ -45,12 +42,10 @@ I am particularly known for developing the **Plug-and-Play Priors** framework, w
 
 ## Contact
 
-**Email**: suhas.sreehari@ieee.org  
-**Phone**: +1 (865) 985-1885  
-**Office**: Medical College of Wisconsin, Milwaukee, WI
+**Email**: ssreehari [at] mcw [dot] edu
+**Office**: 8701 W Watertown Plank Rd, Medical College of Wisconsin, Milwaukee, WI
 
 <div class="social-links">
-  <a href="https://scholar.google.com">Google Scholar</a> | 
-  <a href="https://linkedin.com">LinkedIn</a> | 
-  <a href="https://github.com">GitHub</a>
+  <a href="https://scholar.google.com/citations?user=prgQwNwAAAAJ&hl=en">Google Scholar</a> | 
+  <a href="https://linkedin.com/suhas-sreehari">LinkedIn</a> | 
 </div>
