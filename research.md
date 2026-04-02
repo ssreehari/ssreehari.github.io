@@ -10,9 +10,9 @@ My research develops principled computational frameworks that bridge physics-bas
 
 - Computational imaging and inverse problems
 - Bayesian inference and optimization
-- Federated learning for healthcare
 - Explainable AI through differential geometry
 - Medical image reconstruction and analysis
+- Privacy-preserving machine learning
 
 ## Key Research Contributions
 
@@ -24,8 +24,11 @@ The Plug-and-Play Priors framework enables flexible integration of powerful deno
 - Applied to MRI reconstruction, electron microscopy, super-resolution imaging
 - Awarded the 2020 SIAM Imaging Sciences Best Paper Prize and 2018 IEEE Young Author Award
 
-**Key Publications:**
+**Main/Representative Publication:**
 - Sreehari et al., "Plug-and-play priors for bright field electron tomography," *IEEE Trans. Computational Imaging*, 2016
+
+Code: https://engineering.purdue.edu/~bouman/Plug-and-Play/
+
 
 ### Consensus Equilibrium
 
@@ -33,10 +36,6 @@ A multi-agent optimization framework that enables modular integration of dispara
 
 **Key Publications:**
 - Buzzard, Chan, Sreehari, and Bouman, "Plug-and-play unplugged: Optimization-free reconstruction using consensus equilibrium," *SIAM J. Imaging Sciences*, 2018
-
-### Federated Learning for Medical Imaging
-
-Developing privacy-preserving collaborative learning frameworks for multi-institutional medical image super-resolution and analysis. Current focus at Oak Ridge National Laboratory.
 
 ### Latent Space Geometry for Explainable AI
 
@@ -57,24 +56,18 @@ Privacy-preserving face identification using generative neural networks. Awarded
 ### MRI Reconstruction with Foundation Models
 Developing foundation models trained on raw multi-coil k-space data for MRI reconstruction that preserves physically-captured information typically discarded by conventional pipelines.
 
-### Trajectory Risk Functions for AI Safety
-Creating evaluation frameworks for assessing AI system safety through trajectory-based risk metrics.
-
-### Proactive AI Assistant (Orca)
-Building privacy-first on-device AI assistant using Apple Foundation Models with genuine proactive intelligence.
+### Latent Space Curvature Decomposition
+Using Fisher-Rao metric and information geometry to diagnose representation network failures, providing a mathematical framework for distinguishing architectural failures from data-driven failures.
 
 ## Funding
 
 Research supported by:
-- U.S. Air Force Research Laboratory (AFRL)
-- National Science Foundation (NSF)
-- Oak Ridge National Laboratory
+- U.S. Air Force Office of scientific Research (AFOSR)
+- MURI
+- Centers for Medicare and Medicaid Services
 - U.S. Veterans Affairs
-- Siemens Healthineers
-- Wells Fargo
+
 
 ## Research Group
 
-Currently supervising graduate students and postdoctoral researchers in computational imaging, machine learning, and biomedical informatics at Medical College of Wisconsin.
-
-Interested in joining my group? Contact me at suhas.sreehari@ieee.org
+I am currently seeking highly motivated postdocs and graduate students in computational imaging, machine learning, and biomedical informatics. If you're interested in applying to MCW or have already been admitted to our graduate program, send me an e-mail stating your interest.
