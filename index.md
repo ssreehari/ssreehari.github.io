@@ -38,18 +38,19 @@ I am particularly known for developing the **Plug-and-Play Priors** framework, w
 ## Recent Highlights
 
 - **2026**: Selected for National Academy of Engineering's China-America Frontiers of Engineering
-- **2024**: Distinguished Alumnus Award, B.M.S. College of Engineering, India
+- **2024**: Distinguished Alumnus Award, B.M.S. College of Engineering
 - **2022**: Elevated to IEEE Senior Member
 - **2020**: SIAM Imaging Sciences Best Paper Prize
 - **2018**: IEEE Signal Processing Society Young Author Best Paper Award
 
 ## Contact
 
-**Email**: ssreehari [at] mcw [dot] edu  
-**Office**: 8701 W Watertown Plank Road, Medical College of Wisconsin, Milwaukee, WI
+**Email**: suhas.sreehari@ieee.org  
+**Phone**: +1 (865) 985-1885  
+**Office**: Medical College of Wisconsin, Milwaukee, WI
 
 <div class="social-links">
-  <a href="https://scholar.google.com/citations?user=prgQwNwAAAAJ&hl=en">Google Scholar</a> | 
+  <a href="https://scholar.google.com">Google Scholar</a> | 
   <a href="https://linkedin.com">LinkedIn</a> | 
   <a href="https://github.com">GitHub</a>
 </div>
