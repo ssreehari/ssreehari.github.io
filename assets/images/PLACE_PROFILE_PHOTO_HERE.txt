@@ -1,0 +1,7 @@
+Add your profile photo here.
+
+Filename: profile.jpg
+Recommended size: 400x400px (square)
+Format: JPG or PNG
+
+This image will appear in the sidebar on all pages.
