@@ -1,42 +1,56 @@
 /* Custom styles for academic website */
 
-/* Profile image on home page */
+/* Home intro section - two column layout */
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-bottom: 3em;
+}
+
+.intro-text {
+  flex: 1;
+}
+
+/* Profile image on home page - smaller, on right */
 .profile-image {
-  float: right;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
-  margin: 0 0 20px 30px;
+  flex-shrink: 0;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 @media (max-width: 768px) {
+  .home-intro {
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 20px;
+  }
+  
   .profile-image {
-    float: none;
-    display: block;
-    margin: 0 auto 20px;
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
+  }
+  
+  .intro-text {
+    text-align: center;
   }
 }
 
-/* Home intro section */
-.home-intro {
-  margin-bottom: 3em;
-}
-
 .home-intro h1 {
-  font-size: 2.5em;
-  margin-bottom: 0.3em;
+  font-size: 2.2em;
+  margin-bottom: 0.5em;
+  margin-top: 0;
   color: #1a1a1a;
 }
 
 .home-intro .subtitle {
-  font-size: 1.1em;
+  font-size: 1.05em;
   color: #666;
   line-height: 1.6;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.8em;
 }
 
 /* Social links */
