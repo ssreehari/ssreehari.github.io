@@ -1,0 +1,156 @@
+/* Custom styles for academic website */
+
+/* Profile image on home page */
+.profile-image {
+  float: right;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 0 20px 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .profile-image {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+/* Home intro section */
+.home-intro {
+  margin-bottom: 3em;
+}
+
+.home-intro h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.3em;
+  color: #1a1a1a;
+}
+
+.home-intro .subtitle {
+  font-size: 1.1em;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 0.5em;
+}
+
+/* Social links */
+.social-links {
+  margin-top: 2em;
+  font-size: 1.1em;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
+
+/* Publication awards and highlights */
+.publications-page h3 {
+  color: #2c5aa0;
+  margin-top: 2em;
+}
+
+/* Download button */
+.download-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #2c5aa0;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.download-button:hover {
+  background-color: #1e3a5f;
+  text-decoration: none;
+}
+
+/* Research page styling */
+.research-section {
+  margin-bottom: 3em;
+}
+
+/* Awards and honors styling */
+ul li:has(> em:first-child) {
+  margin-bottom: 0.8em;
+}
+
+/* Improve spacing for nested lists */
+ul ul {
+  margin-top: 0.5em;
+}
+
+/* Navigation improvements */
+.site-nav {
+  line-height: 1.8;
+}
+
+/* Better code block styling */
+pre {
+  background-color: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 16px;
+  overflow: auto;
+}
+
+code {
+  background-color: #f6f8fa;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* Table styling for publications */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+table th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+/* Improve link colors */
+a {
+  color: #0066cc;
+}
+
+a:hover {
+  color: #004080;
+}
+
+/* Main content improvements */
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Footer improvements */
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 30px 0;
+  margin-top: 50px;
+}

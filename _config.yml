@@ -1,0 +1,57 @@
+# Site Settings
+title: "Suhas Sreehari"
+subtitle: "Assistant Professor of Data Science & Biomedical Engineering"
+email: suhas.sreehari@ieee.org
+description: >-
+  Research in computational imaging, Bayesian machine learning, 
+  federated learning, and explainable AI
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ssreehari.github.io" # Update with your GitHub username
+twitter_username: # Add if you have one
+github_username: ssreehari
+linkedin_username: suhas-sreehari
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
