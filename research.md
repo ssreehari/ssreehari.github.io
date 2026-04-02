@@ -68,4 +68,4 @@ Research supported by:
 
 Currently seeking highly motivated graduate students in computational imaging, machine learning, and biomedical informatics at the Medical College of Wisconsin.
 
-Interested in joining my group? Contact me at suhas.sreehari@ieee.org
+Interested in joining my group? Contact me at ssreehari [at] mcw [dot] edu.
