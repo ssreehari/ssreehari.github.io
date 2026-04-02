@@ -51,7 +51,7 @@ I am building a research group at the Medical College of Wisconsin focused on co
 
 ## Join My Group
 
-I am actively recruiting motivated PhD students, postdoctoral researchers, and visiting scholars to join my research group at the Medical College of Wisconsin.
+I am actively recruiting motivated PhD students, postdoctoral researchers, and undergraduate students to join my research group at the Medical College of Wisconsin.
 
 ### What I Look For
 
@@ -73,7 +73,7 @@ Current and planned research projects include:
 
 ### How to Apply
 
-If you're interested in joining my group at MCW, please email me at **[suhas.sreehari@ieee.org](mailto:suhas.sreehari@ieee.org)** with:
+If you're interested in joining my group at MCW, please email me at **ssreehari [at] mcw [dot] edu** with:
 
 1. **Your CV and transcript**
 2. **Brief research statement** (1 page):
