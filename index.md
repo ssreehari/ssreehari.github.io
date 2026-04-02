@@ -46,6 +46,6 @@ I am particularly known for developing the **Plug-and-Play Priors** framework, w
 **Office**: 8701 W Watertown Plank Rd, Medical College of Wisconsin, Milwaukee, WI
 
 <div class="social-links">
-  <a href="https://scholar.google.com/citations?user=prgQwNwAAAAJ&hl=en">Google Scholar</a> | 
-  <a href="https://linkedin.com/suhas-sreehari">LinkedIn</a> | 
+  <a href="https://scholar.google.com/citations?user=prgQwNwAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://linkedin.com/suhas-sreehari">LinkedIn</a>
 </div>
