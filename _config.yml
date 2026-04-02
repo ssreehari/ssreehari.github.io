@@ -1,14 +1,12 @@
 # Site Settings
 title: "Suhas Sreehari"
 subtitle: "Assistant Professor of Data Science & Biomedical Engineering"
-email: suhas.sreehari@ieee.org
+email: ssreehari@mcw.edu
 description: >-
-  Research in computational imaging, Bayesian machine learning, 
-  federated learning, and explainable AI
+  Research in computational imaging, Bayesian estimation, and applied math for AI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ssreehari.github.io" # Update with your GitHub username
-twitter_username: # Add if you have one
-github_username: ssreehari
+github_username: # Add your GitHub username
 linkedin_username: suhas-sreehari
 
 # Build settings
