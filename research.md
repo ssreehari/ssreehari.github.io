@@ -24,11 +24,8 @@ The Plug-and-Play Priors framework enables flexible integration of powerful deno
 - Applied to MRI reconstruction, electron microscopy, super-resolution imaging
 - Awarded the 2020 SIAM Imaging Sciences Best Paper Prize and 2018 IEEE Young Author Award
 
-**Main/Representative Publication:**
+**Key Publications:**
 - Sreehari et al., "Plug-and-play priors for bright field electron tomography," *IEEE Trans. Computational Imaging*, 2016
-
-Code: https://engineering.purdue.edu/~bouman/Plug-and-Play/
-
 
 ### Consensus Equilibrium
 
@@ -62,12 +59,13 @@ Using Fisher-Rao metric and information geometry to diagnose representation netw
 ## Funding
 
 Research supported by:
-- U.S. Air Force Office of scientific Research (AFOSR)
+- U.S. Air Force Research Laboratory (AFRL)
 - MURI
-- Centers for Medicare and Medicaid Services
+- Centers for Medicare and Medicaid Services (CMS)
 - U.S. Veterans Affairs
-
 
 ## Research Group
 
-I am currently seeking highly motivated postdocs and graduate students in computational imaging, machine learning, and biomedical informatics. If you're interested in applying to MCW or have already been admitted to our graduate program, send me an e-mail stating your interest.
+Currently seeking highly motivated graduate students in computational imaging, machine learning, and biomedical informatics at the Medical College of Wisconsin.
+
+Interested in joining my group? Contact me at suhas.sreehari@ieee.org
